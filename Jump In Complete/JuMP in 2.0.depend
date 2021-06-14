@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1610382659 source:f:\probleme codeblocks\jump in 2.0\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<string.h>
+
+1623623532 source:f:\probleme codeblocks\grupaa2_gurauiulian_tudorciot_jumpin\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<string.h>
+
